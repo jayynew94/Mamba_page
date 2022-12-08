@@ -1,3 +1,8 @@
+*{
+    background-color: yellow;
+}
+
+
 #title {
     align-items: center;
 }
@@ -5,3 +10,4 @@
 .bold{
     font-weight: bold;
 }
+
